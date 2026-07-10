@@ -4,7 +4,7 @@ I'm an AI/ML and data engineer with a Master's in Computer Science from South Da
 
 - 🔬 **Research:** video comprehension — I built [CLIP-CC](https://github.com/infinitysugam/Clip-CC), a benchmark dataset of 200 human-summarized videos ([also on Hugging Face](https://huggingface.co/datasets/IVSL-SDSU/Clip-CC)), and the [Video Comprehension Score (VCS)](https://github.com/infinitysugam/Video-Comprehension-Score) metric for evaluating narrative understanding
 - 💼 **Interests:** AI/ML, data engineering, big data, and quantitative finance
-- 🌐 **Portfolio:** [infinitysugam.github.io](https://infinitysugam.github.io)
+- 🌐 **Portfolio:** [infinitysugam.github.io](https://sugammishra.com)
 - 🤝 **Connect:** [LinkedIn](https://www.linkedin.com/in/sugam-mishra-684b521b7)
 
 ## Featured projects
